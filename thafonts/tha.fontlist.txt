@@ -1,0 +1,61 @@
+Garuda
+Garuda Bold
+Garuda Bold Oblique
+Garuda Oblique
+Kinnari Bold
+Kinnari Bold Italic
+Kinnari Bold Oblique
+Kinnari Medium
+Kinnari Medium Italic
+Kinnari Medium Oblique
+Laksaman
+Laksaman Bold
+Laksaman Bold Italic
+Laksaman Italic
+Loma
+Loma Bold
+Loma Bold Oblique
+Loma Oblique
+Microsoft Sans Serif
+Norasi
+Norasi Bold
+Norasi Bold Italic
+Norasi Bold Oblique
+Norasi Italic
+Norasi Oblique
+Purisa
+Purisa Bold
+Purisa Bold Oblique
+Purisa Oblique
+Sawasdee
+Sawasdee Bold
+Sawasdee Bold Oblique
+Sawasdee Oblique
+Tahoma
+Tahoma Bold
+Tlwg Mono Bold
+Tlwg Mono Bold Oblique
+Tlwg Mono Medium
+Tlwg Mono Oblique
+Tlwg Typewriter Bold
+Tlwg Typewriter Bold Oblique
+Tlwg Typewriter Medium
+Tlwg Typewriter Oblique
+Tlwg Typist Bold
+Tlwg Typist Bold Oblique
+Tlwg Typist Medium
+Tlwg Typist Medium Oblique
+Tlwg Typo Bold
+Tlwg Typo Bold Oblique
+Tlwg Typo Medium
+Tlwg Typo Medium Oblique
+Umpush
+Umpush Bold
+Umpush Bold Oblique
+Umpush Light
+Umpush Light Oblique
+Umpush Oblique
+Waree
+Waree Bold
+Waree Bold Oblique
+Waree Oblique
